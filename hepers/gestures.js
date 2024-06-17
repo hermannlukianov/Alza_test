@@ -21,8 +21,8 @@ const SWIPE_DIRECTION = {
     end: { x: 95, y: 80 },
   },
   up: {
-    start: { x: 50, y: 85 },
-    end: { x: 50, y: 15 },
+    start: { x: 50, y: 40 },
+    end: { x: 50, y: 10 },
   },
 };
 
