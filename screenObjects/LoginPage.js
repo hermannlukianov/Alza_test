@@ -28,8 +28,8 @@ class LoginPage {
         return $('//android.widget.Button[@resource-id="btnLogin"]'); 
     }
 
-    get username() { return "hermanlukianov@gmail.com"; }
-    get password() { return "Germanger1"; }
+    get username() { return "@gmail.com"; }
+    get password() { return ""; }
 
     async login() {
         await this.emailField.setValue(this.username);

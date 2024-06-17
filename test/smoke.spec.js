@@ -1,5 +1,4 @@
 import Gestures from "../hepers/Gestures";
-//import { clickAndWait, clickAndSetValue, elementPresented, clickElement, scrollUntilButtonPresented } from "../hepers/help";
 import LoginPage from "../screenObjects/LoginPage";
 import MainPage, { searchBar } from "../screenObjects/MainPage";
 import LowerBar from "../screenObjects/LowerBar";
