@@ -25,6 +25,7 @@ describe("Main Screen functionality", () => {
   it("Lower bar presented", async () => {
     
     // home
+    /////
     await LowerBar.favourite.isDisplayed();
     await LowerBar.cart.isDisplayed();
     await LowerBar.orders.isDisplayed();
